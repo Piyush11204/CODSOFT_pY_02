@@ -14,4 +14,4 @@ Terminate Calculator: Enter 'exit' or 'quit' to exit the calculator.
 Code Structure
 calculator.py: Python script containing the calculator logic.
 
-#MADE UNDER CODSOFT INTERNSHIP --PYTHON PROGRAMMING.
+# MADE UNDER CODSOFT INTERNSHIP --PYTHON PROGRAMMING.
