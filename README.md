@@ -1,7 +1,7 @@
 # CODSOFT_pY_02
 # Python Calculator
 # Overview
-This project is a simple command-line calculator implemented in Python. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+This project is a simple (GUI) calculator implemented in Python. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 # Features
 Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
